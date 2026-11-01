@@ -12,7 +12,7 @@ Previously, I analyzed statistical significance using online calculators, which 
   add_shipping_info / session
   begin_checkout / session
   new_accounts / session
-3. Calculate significance for the total test, and also the results across all possible breakdowns (by tests, countries, devices, etc.).
+3. Calculated significance for the total test, and also the results across all possible breakdowns (by tests, countries, devices, etc.).
 
 
 ## Stage 2. Visualization in Tableau.
